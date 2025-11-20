@@ -1,0 +1,96 @@
+[
+  {
+    "slug": "terminal",
+    "title": "Terminal",
+    "date": "2025-11-20",
+    "file": "essays/terminal.md",
+    "description": "Interactive web-based terminal project",
+    "externalUrl": "https://sudhir.is-a.dev/Terminal/"
+  },
+  {
+    "slug": "prompt-injection",
+    "title": "Prompt Injection: The Silent Bug That Can Break LLM Models",
+    "date": "2025-09-13",
+    "file": "essays/2025-09-10-Prompt_Injection_The_Silent_Bug_That_Can_Break_LLM_Models.md",
+    "description": "Chatbots and LLMs can follow instructions too well. Here's how malicious prompts bypass filters and what you can do"
+  },
+  {
+    "slug": "recent-cisco-vulnerabilities",
+    "title": "Recent Cisco Switch and Firewall Vulnerabilities",
+    "date": "2025-10-04",
+    "file": "essays/2025-10-04-Recent_Cisco_Switch_and_Firewall_Vulnerabilities.md",
+    "description": "Analysis of recent critical vulnerabilities in Cisco network infrastructure"
+  },
+  {
+    "slug": "pokedex",
+    "title": "Pokedex Project",
+    "date": "2025-10-26",
+    "file": "essays/2025-10-26-pokedex.md",
+    "description": "Interactive Pokedex web application project",
+    "externalUrl": "https://sudhir.is-a.dev/PokeDex/"
+  },
+  {
+    "slug": "ihack-ctf-2025",
+    "title": "iHack CTF 2025 Writeup",
+    "date": "2025-09-02",
+    "file": "essays/2025-09-02-iHack_CTF_2025_Writeup.md",
+    "description": "Complete writeup of iHack CTF 2025 challenges and solutions"
+  },
+  {
+    "slug": "balancing-security",
+    "title": "Balancing Act: Why Good Enough Security is the Real Hero",
+    "date": "2025-06-21",
+    "file": "essays/2025-06-21-Balancing_Act_Why_Good_Enough_Security_is_the_Real_Hero.md",
+    "description": "Exploring the practical approach to security in real-world scenarios"
+  },
+  {
+    "slug": "security-architecture-fundamentals",
+    "title": "Security Architecture Fundamentals",
+    "date": "2025-04-30",
+    "file": "essays/2025-04-30-security_architecture_fundamentals.md",
+    "description": "Core principles and concepts of security architecture design"
+  },
+  {
+    "slug": "zero-trust-fundamentals",
+    "title": "Zero Trust Fundamentals",
+    "date": "2025-04-27",
+    "file": "essays/2025-04-27-Zero_Trust_Fundamentals.md",
+    "description": "Understanding the Zero Trust security model and implementation"
+  },
+  {
+    "slug": "is-zscaler-for-you",
+    "title": "Is Zscaler for You?",
+    "date": "2025-04-26",
+    "file": "essays/2025-04-26-is_Zscaler_for_you.md",
+    "description": "Evaluating Zscaler's cloud security platform for your organization"
+  },
+  {
+    "slug": "firewall-compliance",
+    "title": "Firewall Compliance",
+    "date": "2025-04-24",
+    "file": "essays/2025-04-24-Firewall_Compliance.md",
+    "description": "Best practices for maintaining firewall compliance with security standards"
+  },
+  {
+    "slug": "ai-in-it-infrastructure",
+    "title": "AI in IT Infrastructure and Cybersecurity",
+    "date": "2025-04-21",
+    "file": "essays/2025-04-21-AI_in_IT_Infrastructure_and_Cybersecurity.md",
+    "description": "How AI is transforming IT infrastructure management and security operations"
+  },
+  {
+    "slug": "nspm-comparison-2025",
+    "title": "NSPM Comparison",
+    "date": "2025-04-20",
+    "file": "essays/2025-04-20-NSPM_Comparison.md",
+    "description": "Comprehensive comparison of Network Security Policy Management tools",
+    "pinned": true
+  },
+  {
+    "slug": "firewall-fundamentals",
+    "title": "Firewalls: Still Your Network's Bouncer in 2025 (And How Not to Mess It Up)",
+    "date": "2025-04-11",
+    "file": "essays/2025-04-11-Firewall_Fundamentals.md",
+    "description": "A deep dive into firewall fundamentals, covering types (NGFW, Cloud), deployment strategies (Perimeter, DMZ), and best practices for hardening, logging, and rule management."
+  }
+]

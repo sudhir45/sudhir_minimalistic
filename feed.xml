@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>Sudhir</title>
+ <description>Minimalist blog by Sudhir</description>
+ <link>https://sudhir.is-a.dev</link>
+ <lastBuildDate>Thu, 20 Nov 2025 14:59:21 +0000</lastBuildDate>
+ <pubDate>Thu, 20 Nov 2025 14:59:21 +0000</pubDate>
+ <ttl>1800</ttl>
+
+ <item>
+  <title>Prompt Injection: The Silent Bug That Can Break LLM Models</title>
+  <description>Chatbots and LLMs can follow instructions too well. Here's how malicious prompts bypass filters and what you can do</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=prompt-injection</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=prompt-injection</guid>
+  <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>Untitled</title>
+  <description>Complete writeup of iHack CTF 2025 challenges and solutions</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=</guid>
+  <pubDate></pubDate>
+ </item>
+
+ <item>
+  <title>Balancing Act: Why Good Enough Security is the Real Hero</title>
+  <description>Exploring the practical approach to security in real-world scenarios</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=balancing-security</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=balancing-security</guid>
+  <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>Security Architecture Fundamentals</title>
+  <description>Core principles and concepts of security architecture design</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=security-architecture-fundamentals</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=security-architecture-fundamentals</guid>
+  <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>Zero Trust Fundamentals</title>
+  <description>Understanding the Zero Trust security model and implementation</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=zero-trust-fundamentals</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=zero-trust-fundamentals</guid>
+  <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>Is Zscaler for You?</title>
+  <description>Evaluating Zscaler's cloud security platform for your organization</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=is-zscaler-for-you</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=is-zscaler-for-you</guid>
+  <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>Firewall Compliance</title>
+  <description>Best practices for maintaining firewall compliance with security standards</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=firewall-compliance</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=firewall-compliance</guid>
+  <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>AI in IT Infrastructure and Cybersecurity</title>
+  <description>How AI is transforming IT infrastructure management and security operations</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=ai-in-it-infrastructure</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=ai-in-it-infrastructure</guid>
+  <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>NSPM Comparison</title>
+  <description>Comprehensive comparison of Network Security Policy Management tools</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=nspm-comparison-2025</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=nspm-comparison-2025</guid>
+  <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>Firewalls: Still Your Network's Bouncer in 2025 (And How Not to Mess It Up)</title>
+  <description>A deep dive into firewall fundamentals, covering types (NGFW, Cloud), deployment strategies (Perimeter, DMZ), and best practices for hardening, logging, and rule management.</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=firewall-fundamentals</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=firewall-fundamentals</guid>
+  <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+ </item>
+
+</channel>
+</rss>

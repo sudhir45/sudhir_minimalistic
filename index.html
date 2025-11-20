@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Sudhir</title>
+  <meta name="viewport" content="width=device-width, minimum-scale=1" />
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/png" href="/assets/img/favicons/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="/assets/img/favicons/favicon.svg" />
+  <link rel="shortcut icon" href="/assets/img/favicons/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-title" content="Sudhir" />
+  <link rel="manifest" href="/assets/img/favicons/site.webmanifest" />
+
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css" />
+</head>
+
+<body>
+  <header>
+    <a href="/">Sudhir</a>
+    <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode"
+      style="float: right; background: none; border: none; cursor: pointer; font-size: 1.2rem;">
+      <span class="theme-icon">🌙</span>
+    </button>
+  </header>
+
+  <article class="index postContent">
+    <nav>
+      <a href="about.html">About</a>
+      <a href="https://www.linkedin.com/in/dsudhir/" target="_blank">LinkedIn</a>
+      <a href="mailto:sudhirdubey558@gmail.com">Email</a>
+      <a href="https://github.com/sudhir45" target="_blank">Github</a>
+      <a href="/feed.xml">RSS</a>
+    </nav>
+    <div class="essayList">
+      Essays:
+      <ul id="essayList">
+        <li class="loading">Loading...</li>
+      </ul>
+    </div>
+  </article>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@11.1.0/marked.min.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
