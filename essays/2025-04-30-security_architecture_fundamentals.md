@@ -23,8 +23,8 @@ Welcome to the world of **Security Architecture**, where paranoia isn't a flaw -
 - Compliance isn't optional - design with it in mind.
 
 ---
-![light mode only](assets/img/posts/Secure_Architecture.png){: .light .w-75 .shadow .rounded-10 w='700' h='668' }
-![dark mode only](assets/img/posts/Secure_Architecture_Dark.png){: .dark .w-75 .shadow .rounded-10 w='700' h='668' }
+![light mode only](/assets/img/posts/Secure_Architecture.png#w75)
+![dark mode only](/assets/img/posts/Secure_Architecture_Dark.png#w75)
 
 ## What Is Security Architecture, Really?
 

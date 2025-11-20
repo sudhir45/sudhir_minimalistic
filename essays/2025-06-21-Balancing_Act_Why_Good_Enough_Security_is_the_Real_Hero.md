@@ -13,11 +13,13 @@ Three tries and some mild swearing later, you remember the cryptic mess the syst
 
 Success! But wait - where did you even write that down? Sticky note? Notes app? Facepalm.
 
-![Security vs. Usability Seesaw](/assets/img/posts/seasawsecurity.png){: .light .w-50 .left }![Security vs. Usability Seesaw (Dark)](/assets/img/posts/seasawsecuritydark.png){: .dark .w-50 .left }
+![Security vs. Usability Seesaw (Dark)](/assets/img/posts/seasawsecuritydark.png#w50-left)
 
 Here’s the thing - **perfect security doesn’t exist**. And even if it did, you probably wouldn’t want it. We keep stacking tools, patches, and policies like we’re building a digital Tihar Jail. But users aren’t robots. They’ll always find the quickest path to “it just works,” even if that path includes `123456` as a password.
 
-And that’s where it gets real: **the more secure something becomes, the less usable it usually is**. And the more annoying it gets, the more people bend the rules.
+And that’s where it gets real: **the more secure something becomes, the less usable it usually is**. And the more annoying it gets, the more people bend the rules.            
+
+<br>
 
 ## Real-World Digital Drama: Where Theory Meets Reality
 
@@ -50,7 +52,7 @@ Let’s see this classic security-usability tug-of-war in action.
 ## Businesses Face the Same Struggle
 
 Let me explain this without the startup pitch.
-![A frustrated user at their computer](/assets/img/posts/frustratedguy.png){: .light .w-50 .right }![A frustrated user at their computer (Dark)](/assets/img/posts/frustratedguydark.png){: .dark .w-50 .right }
+![A frustrated user at their computer](/assets/img/posts/frustratedguy.png#w50-right) ![A frustrated user at their computer (Dark)](/assets/img/posts/frustratedguydark.png#w50-right)
 ### Zoom vs. Zoombombers
 
 In the early pandemic, Zoom was too easy. Anyone with a link could hop into your office stand-up or grandma’s birthday call. Trolls took that as an invitation. So Zoom added passwords, waiting rooms, tighter controls. A little less convenient, a lot more secure.

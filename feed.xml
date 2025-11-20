@@ -4,8 +4,8 @@
  <title>Sudhir</title>
  <description>Minimalist blog by Sudhir</description>
  <link>https://sudhir.is-a.dev</link>
- <lastBuildDate>Thu, 20 Nov 2025 15:24:36 +0000</lastBuildDate>
- <pubDate>Thu, 20 Nov 2025 15:24:36 +0000</pubDate>
+ <lastBuildDate>Thu, 20 Nov 2025 15:56:34 +0000</lastBuildDate>
+ <pubDate>Thu, 20 Nov 2025 15:56:34 +0000</pubDate>
  <ttl>1800</ttl>
 
  <item>
@@ -13,7 +13,7 @@
   <description>Interactive web-based terminal project</description>
   <link>https://sudhir.is-a.dev/essay.html?slug=terminal</link>
   <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=terminal</guid>
-  <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+  <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
  </item>
 
  <item>
@@ -33,7 +33,7 @@
  </item>
 
  <item>
-  <title>Pokedex Project</title>
+  <title>Pokedex</title>
   <description>Interactive Pokedex web application project</description>
   <link>https://sudhir.is-a.dev/essay.html?slug=pokedex</link>
   <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=pokedex</guid>

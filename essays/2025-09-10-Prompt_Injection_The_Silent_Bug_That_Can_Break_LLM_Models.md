@@ -75,8 +75,8 @@ So what? Your filters didn’t stop the hack, because the model wasn’t “brea
 
 If you’re building with LLMs today, you need a different playbook. Here’s the pragmatic checklist:
 
-![Prompt Injection](/assets/img/posts/Prompt_Injection_light.png){: .light .w-50 w="1072" h="589" .right}
-![Prompt Injection](/assets/img/posts/Prompt_Injection_Dark.png){: .dark .w-50 w="1072" h="589" .right}
+![Prompt Injection](/assets/img/posts/Prompt_Injection_light.png#w50-right)
+![Prompt Injection](/assets/img/posts/Prompt_Injection_Dark.png#w50-right)
 
 **1. Threat Modeling Isn’t Optional**
 Ask: “What happens if someone *wants* to break this?”

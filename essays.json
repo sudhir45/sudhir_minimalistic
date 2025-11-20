@@ -2,10 +2,10 @@
   {
     "slug": "terminal",
     "title": "Terminal",
-    "date": "2025-11-20",
+    "date": "2025-01-20",
     "file": "essays/terminal.md",
     "description": "Interactive web-based terminal project",
-    "externalUrl": "https://sudhir.is-a.dev/Terminal/"
+    "externalUrl": "https://sudhir.is-a.dev/terminal_proj/"
   },
   {
     "slug": "prompt-injection",
@@ -23,7 +23,7 @@
   },
   {
     "slug": "pokedex",
-    "title": "Pokedex Project",
+    "title": "Pokedex",
     "date": "2025-10-26",
     "file": "essays/2025-10-26-pokedex.md",
     "description": "Interactive Pokedex web application project",

@@ -57,7 +57,7 @@ async function loadEssayList() {
       const li = document.createElement('li');
       li.className = 'essay-item';
 
-      // Format date
+      // Note: homepage no longer shows dates; date formatting kept for potential future use
       const date = new Date(essay.date).toLocaleDateString('en-US', {
         year: 'numeric',
         month: 'short',
@@ -71,12 +71,10 @@ async function loadEssayList() {
       if (essay.externalUrl) {
         li.innerHTML = `
           <a href="${essay.externalUrl}" target="_blank" rel="noopener noreferrer">${essay.title}${pinIcon} <span class="external-link-icon">↗</span></a>
-          <div class="essay-meta">${date}</div>
         `;
       } else {
         li.innerHTML = `
           <a href="essay.html?slug=${essay.slug}">${essay.title}${pinIcon}</a>
-          <div class="essay-meta">${date}</div>
         `;
       }
       listElement.appendChild(li);
