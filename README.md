@@ -522,5 +522,3 @@ The validation script will catch duplicate slugs automatically.
 - Comments system
 
 ---
-
-**Need Help?** Check the [Troubleshooting](#troubleshooting) section or review the code comments in `app.js` and `styles.css`.
