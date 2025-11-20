@@ -4,9 +4,17 @@
  <title>Sudhir</title>
  <description>Minimalist blog by Sudhir</description>
  <link>https://sudhir.is-a.dev</link>
- <lastBuildDate>Thu, 20 Nov 2025 14:59:21 +0000</lastBuildDate>
- <pubDate>Thu, 20 Nov 2025 14:59:21 +0000</pubDate>
+ <lastBuildDate>Thu, 20 Nov 2025 15:24:36 +0000</lastBuildDate>
+ <pubDate>Thu, 20 Nov 2025 15:24:36 +0000</pubDate>
  <ttl>1800</ttl>
+
+ <item>
+  <title>Terminal</title>
+  <description>Interactive web-based terminal project</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=terminal</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=terminal</guid>
+  <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+ </item>
 
  <item>
   <title>Prompt Injection: The Silent Bug That Can Break LLM Models</title>
@@ -17,11 +25,27 @@
  </item>
 
  <item>
-  <title>Untitled</title>
+  <title>Recent Cisco Switch and Firewall Vulnerabilities</title>
+  <description>Analysis of recent critical vulnerabilities in Cisco network infrastructure</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=recent-cisco-vulnerabilities</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=recent-cisco-vulnerabilities</guid>
+  <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>Pokedex Project</title>
+  <description>Interactive Pokedex web application project</description>
+  <link>https://sudhir.is-a.dev/essay.html?slug=pokedex</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=pokedex</guid>
+  <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+ </item>
+
+ <item>
+  <title>iHack CTF 2025 Writeup</title>
   <description>Complete writeup of iHack CTF 2025 challenges and solutions</description>
-  <link>https://sudhir.is-a.dev/essay.html?slug=</link>
-  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=</guid>
-  <pubDate></pubDate>
+  <link>https://sudhir.is-a.dev/essay.html?slug=ihack-ctf-2025</link>
+  <guid isPermaLink="true">https://sudhir.is-a.dev/essay.html?slug=ihack-ctf-2025</guid>
+  <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
  </item>
 
  <item>
